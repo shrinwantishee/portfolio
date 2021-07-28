@@ -1,1 +1,1 @@
-# portfolio.github.io
+# shrinwanti.static.app
